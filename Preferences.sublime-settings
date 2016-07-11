@@ -1,0 +1,44 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_encodeing": "UTF-8",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "GBK",
+	"fold_buttons": true,
+	"font_face": "Monaco",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"move_to_limit_on_up_down": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"pastebin":
+	{
+		"copy_to_clipboard": true,
+		"mode": "pastie",
+		"private": true,
+		"prompt_on_post": false,
+		"username": "Liam (Ch'en Meng)"
+	},
+	"rulers":
+	[
+		80,
+		100
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"word_separators": ",./<>?;:'\"[]{}\\|=+)(*&^%$#@!`~，。、《》？；：‘’“”】【|）（…￥·「」『』",
+	"word_wrap": true,
+	"wrap_width": 0
+}

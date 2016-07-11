@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AutoFileName",
+		"Babel",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Coffee Color Scheme",
+		"CoffeeCompile",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"LESS",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Modific",
+		"MultiEditUtils",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"Stylus",
+		"Vue Syntax Highlight"
+	]
+}
