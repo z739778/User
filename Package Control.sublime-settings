@@ -16,7 +16,6 @@
 		"Color Highlighter",
 		"ConvertToUTF8",
 		"CSScomb",
-		"DocBlockr",
 		"Emmet",
 		"Git",
 		"HTML-CSS-JS Prettify",
@@ -32,6 +31,7 @@
 		"Pretty JSON",
 		"Sass",
 		"Stylus",
+		"TypeScript",
 		"Vue Syntax Highlight"
 	]
 }
